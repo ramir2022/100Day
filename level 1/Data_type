@@ -10,3 +10,14 @@ W=float(weight)
 H=float(height)
 BMI=(W)/(H*H)
 print(int(BMI))
+
+A program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old.
+
+age = input("What is your current age?")
+age_r=int(age)
+year=90-age_r
+day_r=year*365
+week_r=year*52
+month_r=year*12
+message=f"You have {day_r} days, {week_r} weeks, and {month_r} months left."
+print(message)
