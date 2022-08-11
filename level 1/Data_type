@@ -2,3 +2,11 @@ two_digit_number = input("Type a two digit number: ")
 a= two_digit_number[0]
 b=two_digit_number[1]
 print(int(a)+int(b))
+
+
+height = input("enter your height in m: ")
+weight = input("enter your weight in kg: ")
+W=float(weight)
+H=float(height)
+BMI=(W)/(H*H)
+print(int(BMI))
