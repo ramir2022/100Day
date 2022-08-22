@@ -25,15 +25,15 @@
 
 - [x] Logical Operators
 
-- [ ] Randomisation
+- [x] Randomisation
 
 - [x] Error Handling
 
-- [ ] Functions
+- [x] Functions
 
-- [ ] For Loops
+- [x] For Loops
 
-- [ ] Code blocks and Indentation
+- [x] Code blocks and Indentation
 
 - [ ] While Loops
 
@@ -41,13 +41,13 @@
 
 - [ ] Positional and Keyword Arguments
 
-- [ ] Python Dictionaries and Lists
+- [x] Python Dictionaries and Lists
 
-- [ ] Nested Collections
+- [x] Nested Collections
 
-- [ ] Returning Functions
+- [x] Returning Functions
 
-- [ ] Return vs. Print
+- [x] Return vs. Print
 
 - [ ] Doc Strings vs. Comments
 
@@ -250,3 +250,4 @@
 - [ ] Analyse Deaths Involving the Police in the US
 
 - [ ] Predict Earnings using Multivariable Regression
+
